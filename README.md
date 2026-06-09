@@ -41,6 +41,10 @@ The robot is controlled through ROS 2 `/cmd_vel` messages and serves as a founda
 
 ---
 
+## Demo Video
+
+https://github.com/jeff2007ai/IsaacSim-ROS2-Custom-4WD-Robot/blob/main/custom_ros2_robot.mp4
+
 ## Robot Structure
 
 ```text
