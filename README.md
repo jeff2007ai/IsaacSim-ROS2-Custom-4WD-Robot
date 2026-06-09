@@ -21,11 +21,7 @@ This repository presents a **completely custom-built four-wheel differential-dri
 
 The robot is controlled through ROS 2 `/cmd_vel` messages and serves as a foundation for perception, SLAM, navigation, and autonomous robotics applications.
 
-## Demo
-
-<p align="center">
-  <img src="/home/jeffin-g-joseph/Downloads/custom_ros2_robot.gif" width="700">
-</p>
+<video src="https://github.com/user-attachments/assets/..." controls width="700"></video>
 
 ---
 
